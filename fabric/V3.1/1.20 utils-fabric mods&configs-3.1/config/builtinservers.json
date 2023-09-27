@@ -1,0 +1,10 @@
+{
+  "badgeVisible": true,
+  "builtinServers": [
+    {
+      "name": "Cyber Server",
+      "address": "tomkatom.com",
+      "forced": false
+    }
+  ]
+}
