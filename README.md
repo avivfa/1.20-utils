@@ -1,7 +1,7 @@
 # 1.20-utils
-a clientside pack for friends
+a modpack for friends
 
 to install, you have 2 options:
 
 1. the zip file is a modpack export that can be imported through mod loaders, like curseforge
-2. the 7z file contains only the mods and configs, and exists for manual installation 
+2. copy the mods and configs into your own minecraft folder after installing the fabric mod loader
